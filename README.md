@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 [Twitter](https://twitter.com/nayak_sofia)
 
-**Gmail**:: `worldofsimpleprogrammers@gmail.com`
+**Email Me**:: `worldofsimpleprogrammers@gmail.com`
 
 
 *Let's support each other and grow.* 🌱
