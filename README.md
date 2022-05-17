@@ -16,20 +16,23 @@ Here are some ideas to get you started:
 -->
 # Hi Friends 👋
 
-> This is Sofia Nayak from India. 
+-  This is Sofia Nayak from India. 
 
-> My mission is to become a `Fullstack Developer`.
+- My mission is to become a `Fullstack Developer`.
 
-> I am currently learning `Java`.
+- I am currently learning `Java`.
 
-> Now I am getting started to create content on "OOP-Java".
+- Now I am getting started to create content for my `personal sites`.
 
 > I strongly focus on `coding effiency` and `creating contents` that help me and others too.
 
-# Connect With Me :
+# How to reach me::
+
+**Gmail**:: worldofsimpleprogrammers@gmail.com
 
 [YouTube](https://www.youtube.com/channel/UC52FbJvOtKytDuiZJP8St8Q "CodeWithSofia")
 
 [LinkedIn](https://www.linkedin.com/in/sofia-nayak-7177132b/ "LinkedIn-Sofia")
 
-## Let's support each other and grow. 🌱
+
+*Let's support each other and grow.* 🌱
