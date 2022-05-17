@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi Friends 👋
 
-- This is Sofia Nayak from India. 
+- This is Sofia Nayak, from India. 
 
 - My mission is to become a `Fullstack Developer`.
 
@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 [YouTube](https://www.youtube.com/channel/UC52FbJvOtKytDuiZJP8St8Q "CodeWithSofia")
 
 [LinkedIn](https://www.linkedin.com/in/sofia-nayak-7177132b/ "LinkedIn-Sofia")
+
+[Twitter](https://twitter.com/nayak_sofia)
 
 **Gmail**:: `worldofsimpleprogrammers@gmail.com`
 
