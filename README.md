@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - I strongly focus on `coding effiency` and `creating contents` that help myself and others too.
 
-- Now I am getting started to create content for my `personal sites`.
+
 
 # How to reach me::
 
