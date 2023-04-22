@@ -24,16 +24,6 @@ Here are some ideas to get you started:
 
 - I strongly focus on `coding effiency` and `creating contents` that help myself and others too.
 
-
-
-# How to reach me::
-
-[YouTube](https://www.youtube.com/channel/UC52FbJvOtKytDuiZJP8St8Q "CodeWithSofia")
-
-[LinkedIn](https://www.linkedin.com/in/sofia-nayak-7177132b/ "LinkedIn-Sofia")
-
-[Twitter](https://twitter.com/nayak_sofia)
-
 **Email Me**:: `worldofsimpleprogrammers@gmail.com`
 
 
