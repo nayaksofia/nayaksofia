@@ -70,11 +70,7 @@
 
 ### Latest YouTube Post :
 <!-- YOUTUBE-POST-LIST:START -->
-- [Functional Interface and Lambda Expression](https://www.youtube.com/watch?v=z3icYW8olDE)
-- [Git Pull](https://www.youtube.com/watch?v=vFOnIC7_A5Q)
-- [1. Eng Grammer: Lec-1 The Sentence](https://www.youtube.com/watch?v=setZdsNtSSc)
-- [3. AWS Lec-2: About Cloud Computing and Its Advantages](https://www.youtube.com/watch?v=22jeCxii6r4)
-- [2. AWS Lec-1:  What is a Client-Server Model ?](https://www.youtube.com/watch?v=uFzBMER-WNA)
+
 <!-- YOUTUBE-POST-LIST:END -->
 
 <br/>
