@@ -14,6 +14,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=codewithsofia5909"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC52FbJvOtKytDuiZJP8St8Q"
           custom_tags: "YOUTUBE"
          
