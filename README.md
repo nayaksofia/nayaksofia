@@ -26,9 +26,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhyaTZybDB1cGFhbndqNmoxNjZtZnViNjdxOWw3MXBwZnB1bWJodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BvKcPeFUtE2Rx5yZrS/giphy.gif" width="600" height="200"/>
-</div>
+</div>-->
 
 <br/>
 
