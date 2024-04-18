@@ -68,13 +68,6 @@
 <br/>
 <br/>
 
-### Latest YouTube Post :
-<!-- YOUTUBE-POST-LIST:START -->
-
-<!-- YOUTUBE-POST-LIST:END -->
-
-<br/>
-
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 - [Congratulations Modal doesn&#39;t Pop Up](https://stackoverflow.com/questions/51978565/congratulations-modal-doesnt-pop-up)
