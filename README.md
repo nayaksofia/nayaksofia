@@ -21,10 +21,12 @@
  <img src="https://komarev.com/ghpvc/?username=nayaksofia&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=0000ff&center=true&vCenter=true&width=435&lines=Hey..+I'm+Sofia;This+is..;..my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
+
 
 <!--<div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhyaTZybDB1cGFhbndqNmoxNjZtZnViNjdxOWw3MXBwZnB1bWJodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BvKcPeFUtE2Rx5yZrS/giphy.gif" width="600" height="200"/>
@@ -73,11 +75,19 @@
 <br/>
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nayaksofia&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayaksofia&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+ <table align="left" width="100%" height="100%" >
+    <tr>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayaksofia&theme=github_dark" alt="Ssofia's GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=nayaksofia&theme=merko" alt="Sofia's Contribution States"/></td>  
+    </tr>
+ </table>
+ 
+ <table align="center" width="100%" height="100%">
+     <tr>
+     <td><img style="border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayaksofia&layout=compact&theme=vision-friendly-dark" alt="Sofia's Github States"/></td>
+    </tr>
+ </table>
 
 
 
