@@ -69,9 +69,16 @@
 <br/>
 
 ### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-- [Java: Introduction To Variable Argument](https://medium.com/@sofianayak/java-introduction-to-variable-argument-fba64d5a01d3?source=rss-4d2034c4eacf------2)
-- [GETTING STARTED AS A GOOGLE INDIA CHALLENGE SCHOLARSHIP RECIPIENT.](https://medium.com/@sofianayak/getting-started-as-a-google-india-scholarship-recipient-7eaccfb71b45?source=rss-4d2034c4eacf------2)
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=z3icYW8olDE"><img width="140px" src="http://img.youtube.com/vi/z3icYW8olDE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=z3icYW8olDE">Functional Interface and Lambda Expression</a><br/>Apr 26, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=vFOnIC7_A5Q"><img width="140px" src="http://img.youtube.com/vi/vFOnIC7_A5Q/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vFOnIC7_A5Q">Git Pull</a><br/>Apr 22, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=setZdsNtSSc"><img width="140px" src="http://img.youtube.com/vi/setZdsNtSSc/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=setZdsNtSSc">1. Eng Grammer: Lec-1 The Sentence</a><br/>Apr 13, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=22jeCxii6r4"><img width="140px" src="http://img.youtube.com/vi/22jeCxii6r4/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=22jeCxii6r4">3. AWS Lec-2: About Cloud Computing and Its Advantages</a><br/>Apr 12, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=uFzBMER-WNA"><img width="140px" src="http://img.youtube.com/vi/uFzBMER-WNA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=uFzBMER-WNA">2. AWS Lec-1:  What is a Client-Server Model ?</a><br/>Apr 11, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
