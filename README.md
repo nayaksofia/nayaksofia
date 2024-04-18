@@ -68,14 +68,14 @@
 <br/>
 <br/>
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
+### YouTube Post :
+<!-- YOUTUBE-POST-LIST:START -->
 - [Functional Interface and Lambda Expression](https://www.youtube.com/watch?v=z3icYW8olDE)
 - [Git Pull](https://www.youtube.com/watch?v=vFOnIC7_A5Q)
 - [1. Eng Grammer: Lec-1 The Sentence](https://www.youtube.com/watch?v=setZdsNtSSc)
 - [3. AWS Lec-2: About Cloud Computing and Its Advantages](https://www.youtube.com/watch?v=22jeCxii6r4)
 - [2. AWS Lec-1:  What is a Client-Server Model ?](https://www.youtube.com/watch?v=uFzBMER-WNA)
-<!-- BLOG-POST-LIST:END -->
+<!-- YOUTUBE-POST-LIST:END -->
 
 <br/>
 
@@ -87,10 +87,10 @@
 <!-- STACKOVERFLOW:END -->
 <br/>
 
-### Youtube Videos List
-<!-- YOUTUBE:START -->
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
 
-<!-- YOUTUBE:END -->
+<!-- BLOG-POST-LIST:END -->
 <br/>
 
 ### :fire: My Stats :
