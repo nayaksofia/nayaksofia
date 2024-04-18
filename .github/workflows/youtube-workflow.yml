@@ -5,15 +5,22 @@ on:
     - cron: "0 * * * *"
   workflow_dispatch:
 permissions:
-      contents: write
+  contents: write
 
 jobs:
   update-readme-with-youtube:
-    name: Update this repo's README with the latest videos from YouTube
+    name: Update this repo's README with latest videos from YouTube
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://www.youtube.com/@codewithsofia5909/feeds/videos.xml?view=0&sort=p&shelf_id=0"
-          custom_tags: "YOUTUBE"
-         
+          # This is my feed_list
+          feed_list: |
+            "https://www.youtube.com/feeds/videos.xml?playlist_id=PLH1qcvcw-zFTRY4pHzeiuFlOg_sSlg-Li",
+            "https://www.youtube.com/feeds/videos.xml?playlist_id=PLH1qcvcw-zFSFIO95WJnjktgQkYlUG4nb"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          date_format: "mmm d, yyyy"
+          template: '<table><tr><td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+          committer_email: "alwinjohn231@gmail.com"
+
