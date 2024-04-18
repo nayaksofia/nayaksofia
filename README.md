@@ -15,6 +15,8 @@
   </a>
 </div>
 
+<br/>
+
 <div id="badges" align="center">
  <img src="https://komarev.com/ghpvc/?username=nayaksofia&style=flat-square&color=blue" alt=""/>
 </div>
@@ -25,10 +27,10 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhyaTZybDB1cGFhbndqNmoxNjZtZnViNjdxOWw3MXBwZnB1bWJodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BvKcPeFUtE2Rx5yZrS/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhyaTZybDB1cGFhbndqNmoxNjZtZnViNjdxOWw3MXBwZnB1bWJodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BvKcPeFUtE2Rx5yZrS/giphy.gif" width="600" height="200"/>
 </div>
 
----
+<br/>
 
 ### :woman_technologist: About Me :
  I am an aspiring Full Stack Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
@@ -39,9 +41,9 @@
 
  :zap: I strongly focus on `coding efficiency`.
 
- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sofianayak)
-
- ---
+ :mailbox: Let's Connect: [![LinkTree Badge](https://img.shields.io/badge/-linktree-blue?style=flat&logo=Linktree&logoColor=white)](https://linktr.ee/nayaksofia)
+ <br/>
+ <br/>
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -61,17 +63,23 @@
   
 </div>
 
----
+<br/>
+<br/>
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nayaksofia&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayaksofia&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+
+
 
 
 
