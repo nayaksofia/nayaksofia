@@ -78,6 +78,9 @@
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Congratulations Modal doesn&#39;t Pop Up](https://stackoverflow.com/questions/51978565/congratulations-modal-doesnt-pop-up)
+- [Is there a way in for...of loops to capitalize the first letter in array [closed]](https://stackoverflow.com/questions/51243658/is-there-a-way-in-for-of-loops-to-capitalize-the-first-letter-in-array)
+- [Regarding Pixel Art Maker toggle &lpar;&rpar; and remove &lpar;&rpar;](https://stackoverflow.com/questions/51210118/regarding-pixel-art-maker-toggle-and-remove)
 <!-- STACKOVERFLOW:END -->
 <br/>
 
