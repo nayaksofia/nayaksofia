@@ -75,6 +75,14 @@
 
 <br/>
 
+### :fountain_pen:LinkedIn Posts:
+ <!-- LINKEDIN-POST: START -->
+  - [How to fix the missing app.module.ts file in the latest version of Angular?](https://www.linkedin.com/pulse/how-fix-missing-appmodulets-file-latest-version-angular-sofia-nayak-er0df/?trackingId=gilxdKFjRo2ak75KIFIU0w%3D%3D)
+  - [How to Create an Array of Objects in Java?](https://www.linkedin.com/pulse/how-create-array-objects-java-sofia-nayak-oj72f/?trackingId=gilxdKFjRo2ak75KIFIU0w%3D%3D)
+ <!-- LINKEDIN-POST: END -->
+
+ <br/>
+
 ### :abacus: StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 - [Congratulations Modal doesn&#39;t Pop Up](https://stackoverflow.com/questions/51978565/congratulations-modal-doesnt-pop-up)
