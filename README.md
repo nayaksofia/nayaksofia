@@ -82,6 +82,13 @@
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
+### Latest YouTube Videos
+<!-- VIDEO-LIST:START -->
+
+<!-- VIDEO-LIST:END -->
+
+<br/>
+
 ### :fire: My Stats :
 
  <table align="left" width="100%" height="100%" >
