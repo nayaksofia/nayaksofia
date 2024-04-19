@@ -19,7 +19,7 @@ jobs:
             const fetch = require('node-fetch');
             const { createOrUpdateFile } = require('@actions/utils');
 
-            const channelID = 'UC52FbJvOtKytDuiZJP8St8Q';
+            const channelID = 'UCb0WoLQEYeIhCkyUCjVd0lw';
             const apiKey = process.env.YOUTUBE_API_KEY;
             const url = `https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=${channelID}&key=${apiKey}&maxResults=5&type=video`;
 
@@ -34,4 +34,3 @@ jobs:
             }));
 
             await createOrUpdateFile('youtube_videos.json', JSON.stringify(videoList, null, 2));
-
