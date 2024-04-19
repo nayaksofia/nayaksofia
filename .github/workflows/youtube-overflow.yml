@@ -1,39 +1,22 @@
-name: Update YouTube Video List
-
+name: Latest YouTube Videos
 on:
   schedule:
-    # Run every hour
+    # Runs every hour, on the hour
     - cron: "0 * * * *"
   workflow_dispatch:
+permissions:
+      contents: write
 
 jobs:
-  update_video_list:
+  update-readme-with-youtube:
+    name: Update this repo's README with latest videos from YouTube
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - name: Fetch YouTube Videos
-        uses: actions/github-script@v5
+      - uses: actions/checkout@v4
+      - uses: nayaksofia/blog-post-workflow@master
         with:
-          script: |
-            const fetch = require('node-fetch');
-            const { createOrUpdateFile } = require('@actions/utils');
-
-            // Extract channel ID from YouTube link
-            const channelLink = 'https://www.youtube.com/channel/UC52FbJvOtKytDuiZJP8St8Q';
-            const channelID = channelLink.split('/').slice(-1)[0];
-
-            const apiKey = process.env.YOUTUBE_API_KEY;
-            const url = `https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=${channelID}&key=${apiKey}&maxResults=5&type=video`;
-
-            const response = await fetch(url);
-            const data = await response.json();
-
-            const videoList = data.items.map(item => ({
-              title: item.snippet.title,
-              videoId: item.id.videoId,
-              thumbnail: item.snippet.thumbnails.default.url,
-              publishedAt: item.snippet.publishedAt
-            }));
-
-            await createOrUpdateFile('youtube_videos.json', JSON.stringify(videoList, null, 2));
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC52FbJvOtKytDuiZJP8St8Q"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          date_format: "mmm d, yyyy"
+          template: '<table><tr><td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+          committer_email: "nayaksofia1989@gmail.com"
