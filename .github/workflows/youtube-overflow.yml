@@ -19,7 +19,10 @@ jobs:
             const fetch = require('node-fetch');
             const { createOrUpdateFile } = require('@actions/utils');
 
-            const channelID = 'UCb0WoLQEYeIhCkyUCjVd0lw';
+            // Extract channel ID from YouTube link
+            const channelLink = 'https://www.youtube.com/channel/UC52FbJvOtKytDuiZJP8St8Q';
+            const channelID = channelLink.split('/').slice(-1)[0];
+
             const apiKey = process.env.YOUTUBE_API_KEY;
             const url = `https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=${channelID}&key=${apiKey}&maxResults=5&type=video`;
 
