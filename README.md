@@ -76,10 +76,8 @@
 <br/>
 
 ### :writing_hand: Latest Youtube Posts :
-<!-- BLOG-POST-LIST:START -->
-- [Java: Introduction To Variable Argument](https://medium.com/@sofianayak/java-introduction-to-variable-argument-fba64d5a01d3?source=rss-4d2034c4eacf------2)
-- [GETTING STARTED AS A GOOGLE INDIA CHALLENGE SCHOLARSHIP RECIPIENT.](https://medium.com/@sofianayak/getting-started-as-a-google-india-scholarship-recipient-7eaccfb71b45?source=rss-4d2034c4eacf------2)
-<!-- BLOG-POST-LIST:END -->
+<!-- YOUTUBE-POST-LIST:START -->
+<!-- YOUTUBE-POST-LIST:END -->
 <br/>
 
 ### :writing_hand: Latest Blog Posts :
