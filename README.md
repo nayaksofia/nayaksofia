@@ -67,7 +67,7 @@
 <br/>
 <br/>
 
-### :writing_hand: Latest Blog Posts :
+### :blue_book: Latest Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [Java: Introduction To Variable Argument](https://medium.com/@sofianayak/java-introduction-to-variable-argument-fba64d5a01d3?source=rss-4d2034c4eacf------2)
 - [GETTING STARTED AS A GOOGLE INDIA CHALLENGE SCHOLARSHIP RECIPIENT.](https://medium.com/@sofianayak/getting-started-as-a-google-india-scholarship-recipient-7eaccfb71b45?source=rss-4d2034c4eacf------2)
@@ -75,7 +75,7 @@
 
 <br/>
 
-### :writing_hand: StackOverflow Activity
+### :abacus: StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 - [Congratulations Modal doesn&#39;t Pop Up](https://stackoverflow.com/questions/51978565/congratulations-modal-doesnt-pop-up)
 - [Is there a way in for...of loops to capitalize the first letter in array [closed]](https://stackoverflow.com/questions/51243658/is-there-a-way-in-for-of-loops-to-capitalize-the-first-letter-in-array)
@@ -83,7 +83,7 @@
 <!-- STACKOVERFLOW:END -->
 <br/>
 
-### :writing_hand: Latest Youtube Posts :
+### :video_camera: Latest Youtube Posts :
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=z3icYW8olDE"><img width="140px" src="https://i.ytimg.com/vi/z3icYW8olDE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=z3icYW8olDE">Functional Interface and Lambda Expression</a><br/>Apr 26, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vFOnIC7_A5Q"><img width="140px" src="https://i.ytimg.com/vi/vFOnIC7_A5Q/mqdefault.jpg"></a></td>
