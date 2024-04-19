@@ -67,7 +67,7 @@
 <br/>
 <br/>
 
-### StackOverflow Activity
+### :writing_hand: StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 - [Congratulations Modal doesn&#39;t Pop Up](https://stackoverflow.com/questions/51978565/congratulations-modal-doesnt-pop-up)
 - [Is there a way in for...of loops to capitalize the first letter in array [closed]](https://stackoverflow.com/questions/51243658/is-there-a-way-in-for-of-loops-to-capitalize-the-first-letter-in-array)
