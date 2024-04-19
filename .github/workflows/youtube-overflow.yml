@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: nayaksofia/blog-post-workflow@master
+      - uses:gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC52FbJvOtKytDuiZJP8St8Q"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
