@@ -1,21 +1,37 @@
-name: GitHub Readme YouTube Cards
+name: Update YouTube Video List
+
 on:
   schedule:
-    # Runs every hour, on the hour
+    # Run every hour
     - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
-  build:
+  update_video_list:
     runs-on: ubuntu-latest
-    # Allow the job to commit to the repository
     permissions:
       contents: write
-    # Run the GitHub Readme YouTube Cards action
     steps:
-      - uses: DenverCoder1/github-readme-youtube-cards@main
+      - name: Fetch YouTube Videos
+        uses: actions/github-script@v5
         with:
-          channel_id: UC52FbJvOtKytDuiZJP8St8Q
-          comment_tag_name: YOUTUBE-CARDS
-          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
-          show_duration: true
+          script: |
+            const fetch = require('node-fetch');
+            const { createOrUpdateFile } = require('@actions/utils');
+
+            const channelID = 'UC52FbJvOtKytDuiZJP8St8Q';
+            const apiKey = process.env.YOUTUBE_API_KEY;
+            const url = `https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=${channelID}&key=${apiKey}&maxResults=5&type=video`;
+
+            const response = await fetch(url);
+            const data = await response.json();
+
+            const videoList = data.items.map(item => ({
+              title: item.snippet.title,
+              videoId: item.id.videoId,
+              thumbnail: item.snippet.thumbnails.default.url,
+              publishedAt: item.snippet.publishedAt
+            }));
+
+            await createOrUpdateFile('youtube_videos.json', JSON.stringify(videoList, null, 2));
+
