@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: nayaksofia/youtube-workflow@master
+      - uses:  gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC52FbJvOtKytDuiZJP8St8Q"
           committer_email: "nayaksofia1989@gmail.com"
