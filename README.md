@@ -76,8 +76,8 @@
 <br/>
 
 ### :writing_hand: Latest Youtube Posts :
-<!-- YOUTUBE-POST-LIST:START -->
-<!-- YOUTUBE-POST-LIST:END -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 <br/>
 
 ### :writing_hand: Latest Blog Posts :
