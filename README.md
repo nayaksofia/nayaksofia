@@ -35,13 +35,13 @@
 <br/>
 
 ### :woman_technologist: About Me :
- I am an aspiring Full Stack Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+ I am an aspiring Full Stack Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. 
 
- :telescope: I’m learning and working on frontend and backend for building web applications.
+ :telescope: I am passionate about problem-solving and algorithmic challenges in Java, and dedicated to mastering Data Structures and Algorithms (DSA) through LeetCode practice. Constantly, honing skills to tackle complex problems efficiently.
 
- :seedling: Exploring Technical Content Writing.
+ :seedling: Exploring Technical Content Writing. Also, actively building skills in web application development.
 
- :zap: I strongly focus on `coding efficiency`.
+ :zap: I am focusing on coding efficiency and web application design. 
 
  :mailbox: Let's Connect: [![LinkTree Badge](https://img.shields.io/badge/-linktree-blue?style=flat&logo=Linktree&logoColor=white)](https://linktr.ee/nayaksofia)
  <br/>
