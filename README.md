@@ -94,7 +94,9 @@
 <br/>
 
 ### :video_camera: Latest Youtube Posts :
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=z3icYW8olDE"><img width="140px" src="https://i.ytimg.com/vi/z3icYW8olDE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=e6C4RoGeAEI"><img width="140px" src="https://i.ytimg.com/vi/e6C4RoGeAEI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=e6C4RoGeAEI">Step to create Maven Project, Dynamic Web Project, and Server in Eclipse IDE</a><br/>Dec 26, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=z3icYW8olDE"><img width="140px" src="https://i.ytimg.com/vi/z3icYW8olDE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=z3icYW8olDE">Functional Interface and Lambda Expression</a><br/>Apr 26, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vFOnIC7_A5Q"><img width="140px" src="https://i.ytimg.com/vi/vFOnIC7_A5Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vFOnIC7_A5Q">Git Pull</a><br/>Apr 22, 2023</td></tr></table>
@@ -102,8 +104,6 @@
 <td><a href="https://www.youtube.com/watch?v=setZdsNtSSc">1. Eng Grammer: Lec-1 The Sentence</a><br/>Apr 13, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=22jeCxii6r4"><img width="140px" src="https://i.ytimg.com/vi/22jeCxii6r4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=22jeCxii6r4">3. AWS Lec-2: About Cloud Computing and Its Advantages</a><br/>Apr 12, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=uFzBMER-WNA"><img width="140px" src="https://i.ytimg.com/vi/uFzBMER-WNA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=uFzBMER-WNA">2. AWS Lec-1:  What is a Client-Server Model ?</a><br/>Apr 11, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 <br/>
 
