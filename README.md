@@ -94,7 +94,9 @@
 <br/>
 
 ### :video_camera: Latest Youtube Posts :
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cM3uZpDopsM"><img width="140px" src="https://i.ytimg.com/vi/cM3uZpDopsM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=CAWZRMs2JjQ"><img width="140px" src="https://i.ytimg.com/vi/CAWZRMs2JjQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=CAWZRMs2JjQ">Introduction to Creating a Dynamic Web Project !</a><br/>Feb 18, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=cM3uZpDopsM"><img width="140px" src="https://i.ytimg.com/vi/cM3uZpDopsM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cM3uZpDopsM">Steps To Create JDBC Connection in DynamicWebProject !</a><br/>Dec 29, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=e6C4RoGeAEI"><img width="140px" src="https://i.ytimg.com/vi/e6C4RoGeAEI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=e6C4RoGeAEI">Step to create Maven Project, Dynamic Web Project, and Server in Eclipse IDE</a><br/>Dec 26, 2024</td></tr></table>
@@ -102,8 +104,6 @@
 <td><a href="https://www.youtube.com/watch?v=z3icYW8olDE">Functional Interface and Lambda Expression</a><br/>Apr 26, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vFOnIC7_A5Q"><img width="140px" src="https://i.ytimg.com/vi/vFOnIC7_A5Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vFOnIC7_A5Q">Git Pull</a><br/>Apr 22, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=setZdsNtSSc"><img width="140px" src="https://i.ytimg.com/vi/setZdsNtSSc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=setZdsNtSSc">1. Eng Grammer: Lec-1 The Sentence</a><br/>Apr 13, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 <br/>
 
