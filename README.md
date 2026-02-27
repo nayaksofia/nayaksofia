@@ -94,7 +94,9 @@
 <br/>
 
 ### :video_camera: Latest Youtube Posts :
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1oJAbZixnXk"><img width="140px" src="https://i.ytimg.com/vi/1oJAbZixnXk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=fyxrU0H8A-c"><img width="140px" src="https://i.ytimg.com/vi/fyxrU0H8A-c/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=fyxrU0H8A-c">JDK: Live Installation for Window OS&lpar;Recorded&rpar;</a><br/>Feb 27, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=1oJAbZixnXk"><img width="140px" src="https://i.ytimg.com/vi/1oJAbZixnXk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1oJAbZixnXk">Coding Practice: Revision-1</a><br/>Jul 8, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=GerKw3pIxzM"><img width="140px" src="https://i.ytimg.com/vi/GerKw3pIxzM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GerKw3pIxzM">Tips For Mood Boosting</a><br/>May 9, 2025</td></tr></table>
@@ -102,8 +104,6 @@
 <td><a href="https://www.youtube.com/watch?v=FuySDoZd1Gc">Parenting Tips For Exam Prepairation</a><br/>Apr 13, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=CAWZRMs2JjQ"><img width="140px" src="https://i.ytimg.com/vi/CAWZRMs2JjQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CAWZRMs2JjQ">Introduction to Creating a Dynamic Web Project !</a><br/>Feb 18, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=cM3uZpDopsM"><img width="140px" src="https://i.ytimg.com/vi/cM3uZpDopsM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cM3uZpDopsM">Steps To Create JDBC Connection in DynamicWebProject !</a><br/>Dec 29, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 <br/>
 
