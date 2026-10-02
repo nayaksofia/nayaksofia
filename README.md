@@ -98,12 +98,12 @@
 <td><a href="https://www.youtube.com/watch?v=5sOr6FQ-SCg">veed.io: How to record?</a><br/>Sep 29, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8UHzgyBtkds"><img width="140px" src="https://i.ytimg.com/vi/8UHzgyBtkds/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8UHzgyBtkds">Review of Requirements for Automation Local Set Up</a><br/>Jun 28, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=bYGpFUGrgUY"><img width="140px" src="https://i.ytimg.com/vi/bYGpFUGrgUY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=bYGpFUGrgUY">Steps to Configure Git with Your Identity and Connect with GitHub</a><br/>Apr 16, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1rvVs1GDEIU"><img width="140px" src="https://i.ytimg.com/vi/1rvVs1GDEIU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1rvVs1GDEIU">Kannada Vowels</a><br/>Apr 16, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=fyxrU0H8A-c"><img width="140px" src="https://i.ytimg.com/vi/fyxrU0H8A-c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fyxrU0H8A-c">JDK: Live Installation for Window OS&lpar;Recorded&rpar;</a><br/>Feb 27, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=1oJAbZixnXk"><img width="140px" src="https://i.ytimg.com/vi/1oJAbZixnXk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=1oJAbZixnXk">Coding Practice: Revision-1</a><br/>Jul 8, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 <br/>
 
