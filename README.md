@@ -94,7 +94,9 @@
 <br/>
 
 ### :video_camera: Latest Youtube Posts :
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=gGL4Si1ioIk"><img width="140px" src="https://i.ytimg.com/vi/gGL4Si1ioIk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Y6P4hkFIlEs"><img width="140px" src="https://i.ytimg.com/vi/Y6P4hkFIlEs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Y6P4hkFIlEs">कविता — “पहली बूँद” &lpar;P-1&rpar; : Grade 6&lpar;C&rpar;</a><br/>Oct 7, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=gGL4Si1ioIk"><img width="140px" src="https://i.ytimg.com/vi/gGL4Si1ioIk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gGL4Si1ioIk">Git Configuration</a><br/>Oct 6, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=67gSt6DvsJM"><img width="140px" src="https://i.ytimg.com/vi/67gSt6DvsJM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=67gSt6DvsJM">Vegetables Curry&lpar;Odia Style&rpar;: Without Onion Garlic</a><br/>Oct 5, 2026</td></tr></table>
@@ -102,8 +104,6 @@
 <td><a href="https://www.youtube.com/watch?v=5sOr6FQ-SCg">veed.io: How to record?</a><br/>Sep 29, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8UHzgyBtkds"><img width="140px" src="https://i.ytimg.com/vi/8UHzgyBtkds/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8UHzgyBtkds">Review of Requirements for Automation Local Set Up</a><br/>Jun 28, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=1rvVs1GDEIU"><img width="140px" src="https://i.ytimg.com/vi/1rvVs1GDEIU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1rvVs1GDEIU">Kannada Vowels</a><br/>Apr 16, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 <br/>
 
